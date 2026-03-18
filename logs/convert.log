@@ -1,0 +1,110 @@
+2026-03-18 21:34:09,307 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 21:34:31,083 | convert | DEBUG | [2026-03-18 21:34:09] [SUCCESS] Результат: 100.0
+2026-03-18 21:34:31,083 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 21:34:33,812 | convert | DEBUG | [2026-03-18 21:34:31] [SUCCESS] Результат: EUR
+2026-03-18 21:34:33,813 | convert | INFO | [START] Конвертируем called args=(<converters.usd_cny_converter.UsdConverter object at 0x00000233C44AC6E0>, 100.0, 'EUR') kwargs={}
+2026-03-18 21:34:33,813 | convert | DEBUG | [2026-03-18 21:34:33] [INPUT] Параметры: (<converters.usd_cny_converter.UsdConverter object at 0x00000233C44AC6E0>, 100.0, 'EUR')
+2026-03-18 21:34:33,813 | convert | DEBUG | [2026-03-18 21:34:33] [SUCCESS] Результат: 86.7
+2026-03-18 21:35:36,486 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 21:35:39,411 | convert | DEBUG | [2026-03-18 21:35:36] [SUCCESS] Результат: 100.0
+2026-03-18 21:35:39,412 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 21:35:52,748 | convert | DEBUG | [2026-03-18 21:35:39] [SUCCESS] Результат: RUB
+2026-03-18 21:35:53,307 | convert | INFO | [START] Конвертируем called args=(<converters.usd_cny_converter.UsdConverter object at 0x00000190C207C6E0>, 100.0, 'RUB') kwargs={}
+2026-03-18 21:35:53,307 | convert | DEBUG | [2026-03-18 21:35:53] [INPUT] Параметры: (<converters.usd_cny_converter.UsdConverter object at 0x00000190C207C6E0>, 100.0, 'RUB')
+2026-03-18 21:35:53,307 | convert | DEBUG | [2026-03-18 21:35:53] [SUCCESS] Результат: 8227.0
+2026-03-18 21:36:10,452 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 21:36:14,396 | convert | DEBUG | [2026-03-18 21:36:10] [SUCCESS] Результат: RUB
+2026-03-18 21:36:14,396 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 21:36:16,010 | convert | DEBUG | [2026-03-18 21:36:14] [SUCCESS] Результат: 200.0
+2026-03-18 21:36:16,010 | convert | INFO | [START] Конвертируем called args=(<converters.usd_cny_converter.UsdConverter object at 0x000001E4ADA0C590>, 200.0, 'RUB') kwargs={}
+2026-03-18 21:36:16,010 | convert | DEBUG | [2026-03-18 21:36:16] [INPUT] Параметры: (<converters.usd_cny_converter.UsdConverter object at 0x000001E4ADA0C590>, 200.0, 'RUB')
+2026-03-18 21:36:16,010 | convert | DEBUG | [2026-03-18 21:36:16] [SUCCESS] Результат: 16454.0
+2026-03-18 21:37:07,795 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 21:37:11,497 | convert | DEBUG | [2026-03-18 21:37:07] [SUCCESS] Результат: RUB
+2026-03-18 21:37:11,498 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 21:37:13,272 | convert | DEBUG | [2026-03-18 21:37:11] [SUCCESS] Результат: 309.0
+2026-03-18 21:37:13,272 | convert | INFO | [START] Конвертируем called args=(<converters.usd_cny_converter.UsdConverter object at 0x000001935DB9C590>, 309.0, 'RUB') kwargs={}
+2026-03-18 21:37:13,272 | convert | DEBUG | [2026-03-18 21:37:13] [INPUT] Параметры: (<converters.usd_cny_converter.UsdConverter object at 0x000001935DB9C590>, 309.0, 'RUB')
+2026-03-18 21:37:13,272 | convert | DEBUG | [2026-03-18 21:37:13] [SUCCESS] Результат: 25421.43
+2026-03-18 21:59:02,844 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 22:03:22,355 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 22:03:26,503 | convert | ERROR | [2026-03-18 22:03:22] [ERROR] Ошибка в операции Ввод вид валюты: 'list' object has no attribute 'keys'
+2026-03-18 22:04:23,195 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 22:04:25,233 | convert | DEBUG | [2026-03-18 22:04:23] [SUCCESS] Результат: RUB
+2026-03-18 22:04:25,233 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 22:04:26,958 | convert | DEBUG | [2026-03-18 22:04:25] [SUCCESS] Результат: 100.0
+2026-03-18 22:04:27,602 | convert | INFO | [START] Конвертируем called args=(<converters.usd_converter.UsdConverter object at 0x000002695B4286E0>, 100.0, 'RUB') kwargs={}
+2026-03-18 22:04:27,602 | convert | DEBUG | [2026-03-18 22:04:27] [INPUT] Параметры: (<converters.usd_converter.UsdConverter object at 0x000002695B4286E0>, 100.0, 'RUB')
+2026-03-18 22:04:27,602 | convert | DEBUG | [2026-03-18 22:04:27] [SUCCESS] Результат: 8227.0
+2026-03-18 22:11:47,077 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 22:11:49,141 | convert | DEBUG | [2026-03-18 22:11:47] [SUCCESS] Результат: RUB
+2026-03-18 22:11:49,141 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 22:11:50,319 | convert | DEBUG | [2026-03-18 22:11:49] [SUCCESS] Результат: 100.0
+2026-03-18 22:11:50,960 | convert | INFO | [START] Конвертируем called args=(<converters.usd_converter.UsdConverter object at 0x0000027249A11010>, 100.0, 'RUB') kwargs={}
+2026-03-18 22:11:50,960 | convert | DEBUG | [2026-03-18 22:11:50] [INPUT] Параметры: (<converters.usd_converter.UsdConverter object at 0x0000027249A11010>, 100.0, 'RUB')
+2026-03-18 22:11:50,960 | convert | DEBUG | [2026-03-18 22:11:50] [SUCCESS] Результат: 8227.0
+2026-03-18 22:15:51,133 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 22:15:53,428 | convert | DEBUG | [2026-03-18 22:15:51] [SUCCESS] Результат: RUB
+2026-03-18 22:15:53,428 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 22:15:54,746 | convert | DEBUG | [2026-03-18 22:15:53] [SUCCESS] Результат: 100.0
+2026-03-18 22:15:55,400 | convert | INFO | [START] Конвертируем called args=(<converters.usd_converter.UsdConverter object at 0x000001FD3F1F1010>, 100.0, 'RUB') kwargs={}
+2026-03-18 22:15:55,400 | convert | DEBUG | [2026-03-18 22:15:55] [INPUT] Параметры: (<converters.usd_converter.UsdConverter object at 0x000001FD3F1F1010>, 100.0, 'RUB')
+2026-03-18 22:15:55,400 | convert | DEBUG | [2026-03-18 22:15:55] [SUCCESS] Результат: 8227.0
+2026-03-18 22:16:16,015 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 22:16:17,690 | convert | DEBUG | [2026-03-18 22:16:16] [SUCCESS] Результат: RUB
+2026-03-18 22:16:17,690 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 22:16:19,111 | convert | DEBUG | [2026-03-18 22:16:17] [SUCCESS] Результат: 100.0
+2026-03-18 22:16:19,738 | convert | INFO | [START] Конвертируем called args=(<converters.usd_converter.UsdConverter object at 0x000001E9E8471010>, 100.0, 'RUB') kwargs={}
+2026-03-18 22:16:19,738 | convert | DEBUG | [2026-03-18 22:16:19] [INPUT] Параметры: (<converters.usd_converter.UsdConverter object at 0x000001E9E8471010>, 100.0, 'RUB')
+2026-03-18 22:16:19,738 | convert | DEBUG | [2026-03-18 22:16:19] [SUCCESS] Результат: 8227.0
+2026-03-18 22:19:55,644 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 22:19:57,468 | convert | DEBUG | [2026-03-18 22:19:55] [SUCCESS] Результат: RUB
+2026-03-18 22:19:57,468 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 22:19:58,563 | convert | DEBUG | [2026-03-18 22:19:57] [SUCCESS] Результат: 100.0
+2026-03-18 22:19:59,183 | convert | INFO | [START] Конвертируем called args=(<converters.usd_converter.UsdConverter object at 0x000001F3D22F1010>, 100.0, 'RUB') kwargs={}
+2026-03-18 22:19:59,183 | convert | DEBUG | [2026-03-18 22:19:59] [INPUT] Параметры: (<converters.usd_converter.UsdConverter object at 0x000001F3D22F1010>, 100.0, 'RUB')
+2026-03-18 22:19:59,183 | convert | DEBUG | [2026-03-18 22:19:59] [SUCCESS] Результат: 8227.0
+2026-03-18 22:20:43,102 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 22:20:46,379 | convert | DEBUG | [2026-03-18 22:20:43] [SUCCESS] Результат: GBP
+2026-03-18 22:20:46,379 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 22:20:47,494 | convert | DEBUG | [2026-03-18 22:20:46] [SUCCESS] Результат: 100.0
+2026-03-18 22:20:48,064 | convert | INFO | [START] Конвертируем called args=(<converters.usd_converter.UsdConverter object at 0x0000024D8F111010>, 100.0, 'GBP') kwargs={}
+2026-03-18 22:20:48,064 | convert | DEBUG | [2026-03-18 22:20:48] [INPUT] Параметры: (<converters.usd_converter.UsdConverter object at 0x0000024D8F111010>, 100.0, 'GBP')
+2026-03-18 22:20:48,064 | convert | DEBUG | [2026-03-18 22:20:48] [SUCCESS] Результат: 74.9
+2026-03-18 22:21:09,264 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 22:21:12,410 | convert | DEBUG | [2026-03-18 22:21:09] [SUCCESS] Результат: RUB
+2026-03-18 22:21:12,410 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 22:21:13,276 | convert | DEBUG | [2026-03-18 22:21:12] [SUCCESS] Результат: 300.0
+2026-03-18 22:21:13,276 | convert | INFO | [START] Конвертируем called args=(<converters.usd_converter.UsdConverter object at 0x000001838C361010>, 300.0, 'RUB') kwargs={}
+2026-03-18 22:21:13,276 | convert | DEBUG | [2026-03-18 22:21:13] [INPUT] Параметры: (<converters.usd_converter.UsdConverter object at 0x000001838C361010>, 300.0, 'RUB')
+2026-03-18 22:21:13,276 | convert | DEBUG | [2026-03-18 22:21:13] [SUCCESS] Результат: 24681.0
+2026-03-18 22:26:42,886 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 22:26:44,762 | convert | DEBUG | [2026-03-18 22:26:42] [SUCCESS] Результат: RUB
+2026-03-18 22:26:44,762 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 22:26:45,926 | convert | DEBUG | [2026-03-18 22:26:44] [SUCCESS] Результат: 100.0
+2026-03-18 22:26:46,525 | convert | INFO | [START] Конвертируем called args=(<converters.usd_converter.UsdConverter object at 0x000001E8FA251010>, 100.0, 'RUB') kwargs={}
+2026-03-18 22:26:46,525 | convert | DEBUG | [2026-03-18 22:26:46] [INPUT] Параметры: (<converters.usd_converter.UsdConverter object at 0x000001E8FA251010>, 100.0, 'RUB')
+2026-03-18 22:26:46,525 | convert | DEBUG | [2026-03-18 22:26:46] [SUCCESS] Результат: 8227.0
+2026-03-18 22:27:54,940 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 22:27:58,459 | convert | DEBUG | [2026-03-18 22:27:54] [SUCCESS] Результат: GBP
+2026-03-18 22:27:58,459 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 22:27:59,629 | convert | DEBUG | [2026-03-18 22:27:58] [SUCCESS] Результат: 100.0
+2026-03-18 22:27:59,629 | convert | INFO | [START] Конвертируем called args=(<converters.usd_converter.UsdConverter object at 0x000001C7A35F1010>, 100.0, 'GBP') kwargs={}
+2026-03-18 22:27:59,630 | convert | DEBUG | [2026-03-18 22:27:59] [INPUT] Параметры: (<converters.usd_converter.UsdConverter object at 0x000001C7A35F1010>, 100.0, 'GBP')
+2026-03-18 22:27:59,630 | convert | DEBUG | [2026-03-18 22:27:59] [SUCCESS] Результат: 74.9
+2026-03-18 22:31:02,471 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 22:31:04,915 | convert | DEBUG | [2026-03-18 22:31:02] [SUCCESS] Результат: RUB
+2026-03-18 22:31:04,915 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 22:31:07,057 | convert | DEBUG | [2026-03-18 22:31:04] [SUCCESS] Результат: 123.0
+2026-03-18 22:31:07,692 | convert | DEBUG | Rates from API
+2026-03-18 22:31:07,693 | convert | INFO | [START] Конвертируем called args=(<converters.usd_converter.UsdConverter object at 0x0000027E090E1010>, 123.0, 'RUB') kwargs={}
+2026-03-18 22:31:07,693 | convert | DEBUG | [2026-03-18 22:31:07] [INPUT] Параметры: (<converters.usd_converter.UsdConverter object at 0x0000027E090E1010>, 123.0, 'RUB')
+2026-03-18 22:31:07,693 | convert | DEBUG | [2026-03-18 22:31:07] [SUCCESS] Результат: 10119.21
+2026-03-18 22:31:22,896 | convert | INFO | [START] Ввод вид валюты called args=() kwargs={}
+2026-03-18 22:31:25,531 | convert | DEBUG | [2026-03-18 22:31:22] [SUCCESS] Результат: GBP
+2026-03-18 22:31:25,531 | convert | INFO | [START] Ввод кол-во валюты called args=() kwargs={}
+2026-03-18 22:31:27,052 | convert | DEBUG | [2026-03-18 22:31:25] [SUCCESS] Результат: 332.0
+2026-03-18 22:31:27,664 | convert | DEBUG | Rates from API
+2026-03-18 22:31:27,665 | convert | INFO | [START] Конвертируем called args=(<converters.usd_converter.UsdConverter object at 0x00000283F79A1010>, 332.0, 'GBP') kwargs={}
+2026-03-18 22:31:27,665 | convert | DEBUG | [2026-03-18 22:31:27] [INPUT] Параметры: (<converters.usd_converter.UsdConverter object at 0x00000283F79A1010>, 332.0, 'GBP')
+2026-03-18 22:31:27,665 | convert | DEBUG | [2026-03-18 22:31:27] [SUCCESS] Результат: 248.668
